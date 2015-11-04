@@ -1,0 +1,63 @@
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe.config
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.pdb
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.csprojResolveAssemblyReference.cache
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia_Ambiente.Form1.resources
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia_Ambiente.Properties.Resources.resources
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.csproj.GenerateResource.Cache
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.exe
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.pdb
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Util.dll
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Util.pdb
+C:\Users\Gustavo Giori\Documents\Visual Studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe.manifest
+C:\Users\Gustavo Giori\Documents\Visual Studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.application
+C:\Users\Gustavo Giori\Documents\Visual Studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.exe.manifest
+C:\Users\Gustavo Giori\Documents\Visual Studio 2013\Projects\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.application
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe.config
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.exe
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.pdb
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe.manifest
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.application
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.pdb
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Util.dll
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Util.pdb
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.csprojResolveAssemblyReference.cache
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia_Ambiente.Form1.resources
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia_Ambiente.Properties.Resources.resources
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.csproj.GenerateResource.Cache
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.exe.manifest
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.application
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe.config
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.exe
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.pdb
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia_Ambiente.Form1.resources
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia_Ambiente.Properties.Resources.resources
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.csproj.GenerateResource.Cache
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe.manifest
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.application
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.pdb
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Util.dll
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Util.pdb
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.exe.manifest
+C:\Users\Gustavo Giori\Downloads\teste\Gerencia Ambiente\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.application
+E:\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe.config
+E:\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.exe
+E:\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.pdb
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe.config
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.exe
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.pdb
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe.manifest
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.application
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.exe
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Gerencia Ambiente.pdb
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Util.dll
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\bin\Debug\Util.pdb
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia_Ambiente.Form1.resources
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia_Ambiente.Properties.Resources.resources
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.csproj.GenerateResource.Cache
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.exe.manifest
+C:\Users\Gustavo Giori\Downloads\Projeto (1)\Gerencia Ambiente\Gerencia Ambiente\obj\Debug\Gerencia Ambiente.application

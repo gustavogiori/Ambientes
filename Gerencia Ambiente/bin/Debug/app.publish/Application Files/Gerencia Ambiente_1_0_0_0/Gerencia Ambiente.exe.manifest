@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Gerencia Ambiente.exe" version="1.0.0.0" publicKeyToken="87a65ce771ff3ecd" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Gerencia Ambiente" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Gerencia Ambiente.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Gerencia Ambiente.exe" size="31744">
+      <assemblyIdentity name="Gerencia Ambiente" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>39lGi+Dak5RVAmmtrZafEU2H3NG75CKgfXT4ZskY6A8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Util.dll" size="6656">
+      <assemblyIdentity name="Util" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>GBdlDre0OFFchrTkbrf8uCTt+IYJ/0EE4bBy4h81mNM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Gerencia Ambiente.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Giori\Gustavo Giori" issuerKeyHash="5410827610602ce5880f650f9540968af550259a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>T+tCr2/R9OZ1pCrym3De294j8dnbNNqSODOiMP2zc+Y=</DigestValue></Reference></SignedInfo><SignatureValue>TSFTVlmUlNPQ03NSSzFF3WVMc9GopxBfBXk8OWloieuGYPapLZloqIKnKVcaxQdbY/ySud9g4IDUWNVt7XPWa3Apt9sSUZ45Et19K5Q9LrHFzDYbxAtGn1PVRxt192qMT9P8DTBxH4fjyZ08TBonHHkjKWVFvwIOH6doHf98OME=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rdn18lXVl9hox/zAKqMed6QDiZV4dex7HZd71iWHhs9rq47twCgp1rsH018z6u1v6Y0bIsutXer7BNlmOPwlr2632ali5AJyTNQyNbiDNYnySigKOmarghSKjSvtFgeUv5cFZxQ1CpaQN2YkeZnxdACKjvrDj+SER9uuQKFfoBs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e673b3fd30a2333892da34dbd9f123dedbde709bf22aa475e6f4d16faf42eb4f" Description="" Url=""><as:assemblyIdentity name="Gerencia Ambiente.exe" version="1.0.0.0" publicKeyToken="87a65ce771ff3ecd" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Giori\Gustavo Giori</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>qJgQ5aM8BZlmjWxvAA+qBsVPDPlAhr44uDqUrsaFkmo=</DigestValue></Reference></SignedInfo><SignatureValue>XnvFAJpwf2t5l3tTFKod90A9yf8dBEseKktAlyYuJwFLqxk1IvY/SkEiPQ0i/W9OzA0OtewGCFUAykvvwbephm5JELBHX08ggcWXyf+eyiWlymSsb8qB1ko47mJgdmANWZDB3pbQkVEmfs1cEv8qNoTOkXIFXL+N4PJH9q6pdM8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rdn18lXVl9hox/zAKqMed6QDiZV4dex7HZd71iWHhs9rq47twCgp1rsH018z6u1v6Y0bIsutXer7BNlmOPwlr2632ali5AJyTNQyNbiDNYnySigKOmarghSKjSvtFgeUv5cFZxQ1CpaQN2YkeZnxdACKjvrDj+SER9uuQKFfoBs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQVVVwKSLpsLhL51uPn9t7GTANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYARwBpAG8AcgBpAFwARwB1AHMAdABhAHYAbwAgAEcAaQBvAHIAaTAeFw0xNTA2MDcyMDExMTZaFw0xNjA2MDcwMjExMTZaMDExLzAtBgNVBAMeJgBHAGkAbwByAGkAXABHAHUAcwB0AGEAdgBvACAARwBpAG8AcgBpMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCt2fXyVdWX2GjH/MAqox53pAOJlXh17Hsdl3vWJYeGz2urju3AKCnWuwfTXzPq7W/pjRsiy61d6vsE2WY4/CWvbrfZqWLkAnJM1DI1uIM1ifJKKAo6ZquCFIqNK+0WB5S/lwVnFDUKlpA3ZiR5mfF0AIqO+sOP5IRH265AoV+gGwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAG7sehroiOZB2ymWygOp7Gxd3UIHkucJ0zYWUU231dlPLDa7hnVcoQAtpr7CikiW4sZ0jVpmzCV7+6X564PluCPj74p+6QVHwztEIlODYq8MP+1+OqbbcLxvO79FJtRi/+XafHJhEM3INz/nf6Uqsr0VRlUQA9oaudPXWUaaN8yF</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

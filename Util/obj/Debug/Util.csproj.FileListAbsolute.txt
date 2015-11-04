@@ -1,0 +1,10 @@
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Util\bin\Debug\Util.dll
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Util\bin\Debug\Util.pdb
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Util\obj\Debug\Util.dll
+c:\users\gustavo giori\documents\visual studio 2013\Projects\Gerencia Ambiente\Util\obj\Debug\Util.pdb
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Util\bin\Debug\Util.dll
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Util\bin\Debug\Util.pdb
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Util\obj\Debug\Util.dll
+C:\Users\gustavo.giori\Desktop\Projeto\Gerencia Ambiente\Util\obj\Debug\Util.pdb
